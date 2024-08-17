@@ -72,3 +72,22 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# FMOD
+Plugins/FMODStudio/Binaries/Win64/UnrealEditor-FMODStudio-Win64-DebugGame.dll
+Plugins/FMODStudio/Binaries/Win64/UnrealEditor-FMODStudio.dll
+Plugins/FMODStudio/Binaries/Win64/UnrealEditor-FMODStudioEditor-Win64-DebugGame.dll
+Plugins/FMODStudio/Binaries/Win64/UnrealEditor-FMODStudioEditor.dll
+Plugins/FMODStudio/Binaries/Win64/UnrealEditor-Win64-DebugGame.modules
+Plugins/FMODStudio/Binaries/Win64/UnrealEditor.modules
+Plugins/FMODStudioNiagara/Binaries/Win64/UnrealEditor-FMODStudioNiagara-Win64-DebugGame.dll
+Plugins/FMODStudioNiagara/Binaries/Win64/UnrealEditor-FMODStudioNiagara.dll
+Plugins/FMODStudioNiagara/Binaries/Win64/UnrealEditor-Win64-DebugGame.modules
+Plugins/FMODStudioNiagara/Binaries/Win64/UnrealEditor.modules
+Content/FMOD/Banks
+Content/FMOD/Buses
+Content/FMOD/Events
+Content/FMOD/PrivateIntegrationData
+Content/FMOD/Tritonium
+Plugins/FMODStudio/Docs
+Plugins/FMODStudio/Resources
